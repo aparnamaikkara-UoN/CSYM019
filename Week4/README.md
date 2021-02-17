@@ -31,7 +31,7 @@ _Hint: You should only need one function and one line with addEventListener!_
 	* mouseleave
 4. Multiple event listeners can be applied to the same element, amend the program so that the text is changed when you mouse over the element and it reverts to the original text when the mouse exits the element
 
-## Exercise 6
+### Exercise 6
 1. Create a new HTML page with the following elements:
 	* 1 text box ( `<input type=”text” />` )
 	* 1 button ( `<input type=”button” />` )

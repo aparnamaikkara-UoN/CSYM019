@@ -25,7 +25,7 @@ _Note: You will need to research how to create a list, you need more than li tag
 
 5. Create a list of links at the top of the page to act as navigation.
 	* You will need to research how to link from one page to another
-	* Put the links in an unordered list ( <ul> )
+	* Put the links in an unordered list
 
 6. Test out different HTML tags
 	* A good resource is https://developer.mozilla.org/en-US/docs/Web/HTML

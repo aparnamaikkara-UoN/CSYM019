@@ -12,7 +12,7 @@ Write a function called print5 that has 5 alerts, the numbers 1 – 5 in their o
 
 ### Exercise 3
 1. If you don't have one already add a `<h1>` element to your page
-2. Give your <h1> element an ID
+2. Give your `<h1>` element an ID
 3. Using addEventListener update the content of the `<h1>` element on the page when it loads
 4. Verify this works by testing it in your browser
 5. Add another element to the page such as `<p>` and update the contents on page load the same way you did with the <h1>

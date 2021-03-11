@@ -1,0 +1,55 @@
+{"sightings":[
+    {
+        "id": 1,
+        "animal": "Dragon",
+        "number" : 3,
+        "location" : "Kingslanding, Westeros",
+        "date" : "2020-02-24",
+        "time" : "10:45:00",
+        "observer" : {
+            "name" : "Tyrion Lannister",
+            "email" : "tyrion@gmail.com" 
+        },
+        "observations" : "Found flying over the streets hunting sheep"
+    },
+    {
+        "id": 2,
+        "animal": "Unicorn",
+        "number" : 4,
+        "location" : "Eden Garden, Heaven",
+        "date" : "1920-12-25",
+        "time" : "03:00:00",
+        "observer" : {
+            "name" : "Agnes Gru",
+            "email" : "agnes@gmail.com" 
+        },
+        "observations" : "Found gazing grass as a herd beside the river bank"
+    },
+    {
+        "id": 3,
+        "animal": "Sphinx",
+        "number" : 1,
+        "location" : "Giza, Egypt",
+        "date" : "1987-11-05",
+        "time" : "12:00:00",
+        "observer" : {
+            "name" : "Indiana Jones",
+            "email" : "jones@gmail.com" 
+        },
+        "observations" : "found playing with a pharoah"
+    },
+    {
+        "id": 4,
+        "animal": "Werewolf",
+        "number" : 12,
+        "location" : "Washington, USA",
+        "date" : "2000-03-15",
+        "time" : "01:00:00",
+        "observer" : {
+            "name" : "Bella Swan",
+            "email" : "bella@gmail.com" 
+        },
+        "observations" : "Sighted during a fight with vampires"
+    }
+]
+}

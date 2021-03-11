@@ -1,0 +1,58 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Sightings Report",
+    "description": "A report of magical animal sighted across the world",
+    "type": "object",
+    "properties": {
+        "sightings": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "integer"
+                    },
+                    "animal": {
+                        "type": "string",
+                        "enum": [
+                            "Dragon",
+                            "Unicorn",
+                            "Sphinx",
+                            "Werewolf",
+                            "Ogre",
+                            "Goblins",
+                            "Leprechauns"
+                        ]
+                    },
+                    "number": {
+                        "type": "integer",
+                        "minimum": 1
+                    },
+                    "location": {
+                        "type": "string"
+                    },
+                    "date": {
+                        "type": "string"
+                    },
+                    "time": {
+                        "type": "string"
+                    },
+                    "observer": {
+                        "type": "object",
+                        "properties": {
+                            "name": {
+                                "type": "string"
+                            },
+                            "email": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "observations": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}
